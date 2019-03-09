@@ -5,6 +5,7 @@
 body {
 font-family: 'Open Sans', sans-serif;
 color: #ffffff;
+transition: all .2s ease-in;
 }
 section {
 	width: 100%;
